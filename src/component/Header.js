@@ -18,7 +18,7 @@ function Header() {
           <a aria-label="Tesla Logo" class="tds-site-logo-link" href="/">
             <svg
               class="xvg_icon"
-              width="180px"
+              width="150px"
               viewBox="0 0 342 35"
               xmlns="http://www.w3.org/2000/svg"
             >

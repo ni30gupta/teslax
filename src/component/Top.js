@@ -10,6 +10,7 @@ function Top() {
       </div>
       <div>
         <Header />
+        <h3>Model- X</h3>
       </div>
     </div>
   );
